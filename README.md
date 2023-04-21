@@ -1,2 +1,2 @@
 # VDhcCommands
-# ?ServerInfo <!--Shows All Server Info/About-->
+# ?ServerInfo - Shows All Server Info/About
