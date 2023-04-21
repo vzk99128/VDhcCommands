@@ -1,0 +1,7 @@
+# VDhcCommands
+# ?ServerInfo - Shows All Server Info/About
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
