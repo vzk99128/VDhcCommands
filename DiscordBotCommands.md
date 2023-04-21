@@ -1,9 +1,9 @@
 # VDhcCommands
-# ?ServerInfo - Shows All Server Info/About
+# https://discord.gg/EHTPqv2pnx
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+?ServerInfo | Shows All Servers Info
+?ServerAbout | Shows All Servers About
+?Ping | Shows The Users Ping
+?Rules | Shows Server Rules
+?Creator | Shows Who Created The Bot/Server
 ```
