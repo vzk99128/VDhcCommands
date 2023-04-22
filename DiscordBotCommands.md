@@ -25,3 +25,6 @@
 ```
 ?Jokes | Gives Jokes To The User
 ```
+```
+?Gen | Generates 2010-2012 Roblox Accounts
+```
